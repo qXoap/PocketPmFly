@@ -1,0 +1,13 @@
+#prefix
+prefix: "&8[&aPocketPmFly&8] &7> "
+ #messages:
+ fly-active-message: "&7Fly Has Been Actived"
+ fly-desactive-message: "&7Fly Has Been Desactived"
+ no-permission-message: "You Dont Have Permissions To Use Fly"
+ #forms
+ # Fly Type, use true to use forms, use false to use command
+ use-forms: true
+ Form-Title: "&l&5POCKETPM FLY"
+ Button-Fly-On: "&l&5Configure in \n Config.yml"
+ Button-Fly-Off: "&l&5Configure in \n Config.yml"
+ Button-Close-Form: "&l&5Configure in \n Config.yml"
