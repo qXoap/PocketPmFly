@@ -11,5 +11,6 @@
  Button-Fly-On: "&l&5Configure in \n Config.yml"
  Button-Fly-Off: "&l&5Configure in \n Config.yml"
  Button-Close-Form: "&l&5Configure in \n Config.yml"
- # Other
+ # Other, use true to active and false to desactive
  remove-fly-when-changing-world: true
+ activate-fly-of-a-player-when-joining: true
