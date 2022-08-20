@@ -1,6 +1,6 @@
-#prefix
-prefix: "&8[&aPocketPmFly&8] &7> "
- #messages:
+ #prefix
+ prefix: "&8[&aPocketPmFly&8] &7> "
+ #messages
  fly-active-message: "&7Fly Has Been Actived"
  fly-desactive-message: "&7Fly Has Been Desactived"
  no-permission-message: "You Dont Have Permissions To Use Fly"
@@ -11,3 +11,5 @@ prefix: "&8[&aPocketPmFly&8] &7> "
  Button-Fly-On: "&l&5Configure in \n Config.yml"
  Button-Fly-Off: "&l&5Configure in \n Config.yml"
  Button-Close-Form: "&l&5Configure in \n Config.yml"
+ # Other
+ remove-fly-when-changing-world: true
