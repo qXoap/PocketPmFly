@@ -11,6 +11,7 @@ class Main extends PluginBase {
 
     public function onEnable(): void{
         self::$instance = $this;
+        
     }
 
     public static function getInstance(): Main{
